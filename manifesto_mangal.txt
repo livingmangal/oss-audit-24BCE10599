@@ -1,0 +1,24 @@
+==============================================
+  MY OPEN SOURCE MANIFESTO
+  By: mangal | Date: 29 March 2026
+==============================================
+
+  Every day, I rely on Linux — a tool that
+  exists because someone chose to build in
+  the open and share their work freely.
+
+  To me, freedom means Our decisions not influenced by others. That is
+  exactly what the Linux Kernel represents:
+  the freedom to see how your computer works,
+  change it, and pass that knowledge on.
+
+  Inspired by Linus Torvalds — who shared his
+  kernel with the world in 1991 — I too want
+  to build IOT helping in Environment Sustainability and release it freely,
+  so that anyone, anywhere, can use it,
+  improve it, and stand on my shoulders
+  just as I stand on the shoulders of those
+  who came before me.
+
+  This is the open source promise.
+==============================================
