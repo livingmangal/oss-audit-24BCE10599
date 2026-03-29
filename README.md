@@ -1,5 +1,5 @@
 # OSS Audit — Linux Kernel
-**Student Name:** Mangal  
+**Student Name:** Mangal Singh 
 **Registration Number:** 24BCE10599  
 **Course:** Open Source Software  
 **Chosen Software:** Linux Kernel  
