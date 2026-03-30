@@ -13,8 +13,15 @@ This repository contains five shell scripts written as part of the Open Source A
 
 ## Repository Contents
 
-| File | Description |
-|------|-------------|
+| File/Folder | Description |
+|-------------|-------------|
+| `Scripts/` | Contains the 5 shell scripts and sample output |
+| `screenshots/` | Contains execution screenshots for each script |
+| `OSS_Report_MangalSingh_24BCE10599.pdf` | Detailed project report |
+
+### Scripts Details (Inside `Scripts/`)
+| Script | Description |
+|--------|-------------|
 | `script1_system_identity.sh` | Displays a system welcome screen with kernel version, distro, user, uptime, and license info |
 | `script2_package_inspector.sh` | Checks if the Linux kernel package is installed, shows version info, and prints a philosophy note |
 | `script3_disk_auditor.sh` | Loops through key Linux directories and reports permissions, owner, and disk size |
@@ -37,7 +44,7 @@ This repository contains five shell scripts written as part of the Open Source A
 ### Step 1 — Clone the repository
 ```bash
 git clone https://github.com/livingmangal/oss-audit-24BCE10599.git
-cd oss-audit-24BCE10599
+cd oss-audit-24BCE10599/Scripts
 ```
 
 ### Step 2 — Make scripts executable
